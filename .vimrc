@@ -152,6 +152,9 @@ endif
 set number
 " 自动保存
 set autowriteall
+" 设置vim只能粘贴50行的
+:set viminfo='1000,<500
+'
 let g:auto_save = 3
 let g:auto_save_events = ["InsertLeave", "TextChanged", "TextChangedI", "CursorHoldI", "CompleteDone"]
 
