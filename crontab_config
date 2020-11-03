@@ -1,0 +1,1 @@
+30 * * * * ? * git commit -m "定期提交" & git pull & git push -u origin master
