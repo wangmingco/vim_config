@@ -1,3 +1,3 @@
 # vim_config
 
-ln /root/vim_config/.vimrc /root/.vimrc
+ln ${HOME}/vim_config/.vimrc /root/.vimrc
