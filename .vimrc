@@ -3,7 +3,7 @@
 " 插件管理插件开始
 call plug#begin('~/.vim/plugged')
 
-" 
+" 快速对其 
 Plug 'junegunn/vim-easy-align'
 
 " 目录插件
@@ -67,7 +67,7 @@ let NERDTreeShowHidden=1
 map <A-f> :Neoformat
 
 " ---------------------------------------------------------------------
-" 开启主题
+" 开启dracula主题
 syntax enable
 colorscheme dracula
 
