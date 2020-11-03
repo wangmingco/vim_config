@@ -152,7 +152,7 @@ endif
 set number
 " 自动保存
 set autowriteall
-" 设置vim只能粘贴50行的
+" 设置vim只能粘贴50行的问题
 :set viminfo='1000,<500
 '
 let g:auto_save = 3
