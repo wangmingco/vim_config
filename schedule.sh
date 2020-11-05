@@ -53,7 +53,7 @@ function clean() {
 	ls -al -h
 }
 
-if [ $1 = "i" || $1 = "init" ] 
+if [[ $1 = "i" || $1 = "init" ]] 
 then 
 	init
 fi
