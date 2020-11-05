@@ -2,7 +2,7 @@
 
 安装
 ```
-git clone https://wangmingco:176142277wang@github.com/wangmingco/vim_config.git ~/vim_config
+git clone https://wangmingco:xxx@github.com/wangmingco/vim_config.git ~/vim_config
 ```
 
 初始化
